@@ -8,10 +8,10 @@
 import SwiftUI
 
 @main
-struct ReadWellApp: App {
+struct BookReviewApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            MainContentView()
         }
     }
 }
